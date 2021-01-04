@@ -11,7 +11,7 @@ title                    : "Muhammad Usama Saleem"
 title_separator          : "-"
 name                     : &name "Muhammad Usama Saleem"
 description              : &description "I am a BS student in computer science at Lahore University of Management Sciences (LUMS). I am completing my undergraduate research thesis under the supervision of Dr.Fareed Zaffar Mobin Javed(LUMS).My primary research interests lie in network security and privacy challenges. My research focuses on measuring privacy threats to network-based applications and exploring security-based issues. I am interested in designing systems that can detect and control the misuse of information to secure privacy in cyberspace. "
-url                      : https://muhammadusamasaleem.github.io/
+url                      : https://muhammadusamasaleem.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "muhammadusamasaleem/muhammadusamasaleem.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
