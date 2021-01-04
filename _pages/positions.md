@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research Positions and Service"
+title: "Research Projects"
 permalink: positions/
 author_profile: true
 
@@ -13,18 +13,32 @@ h2, h3, h4, h5, h6 {margin: 0;}
 
 {% include base_path %}
 
-### PhD Machine Learning Software Engineering Intern at Facebook, Menlo Park, CA
-#### May 2020 - August 2020
-#### Project in newsfeed integrity
+### Undergraduate Research Thesis at LUMS 
+#### Sept 2020 - Present 
+#### Project on Classification, and Evasion of Encrypted Traffic Fingerprinting
 <br/>
 
-### Tech Research Intern at Spotify, Boston, MA
+### Research Assistant at Technology for People Initiative (TPI) lab LUMS
+#### Aug 2020 - Present  
+#### Project on investigating the compliance with COPPA in browser-based games
+<br/>
+
+
+
+### Research Assistant at Center for Speech and Language Technologies (CSaLT) lab LUMS
+#### June 2020 - Present  
+#### Project on counter deepfake misinformation among the low digital literacy population
+<br/>
+
+
+### Co-Researcher at Data Analytics Lab LUMS
 #### June 2019 - August 2019
-#### Research project for Language in Learning Technologies lab to filter podcast content quality
+#### Project on recommender system based on enhanced ripple-net algorithm
+
 <br/>
 
-### Research and Development Intern at Flashpoint Intel, New York, NY
-#### June 2018 - Dec 2018  
+### Research Assistant at Technology for People Initiative (TPI) lab at LUMS
+#### Aug 2020 - Present  
 #### Conducted classified NLP, statistics, and security-related research projects and developed tools for exploration of the deep & dark web
 <br/>
 
