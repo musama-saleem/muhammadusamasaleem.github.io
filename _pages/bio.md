@@ -31,7 +31,7 @@ h2, h3, h4, h5, h6 {margin: 0;}
 
 
 <p style="font-size:13pt"> 
-   Email : usama.saleem7477@gmail.com<br>
+   Email : 21100273@lums.edu.pk<br>
    Phone :+923007555886<br>
    Address: Street # 8, House # 6, Usman Block <br>
    New Shalimar Colony Bosan Road Multan Pakistan<br>
