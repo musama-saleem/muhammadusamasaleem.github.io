@@ -38,8 +38,7 @@ h2, h3, h4, h5, h6 {margin: 0;}
 ### Co-Researcher at Data Analytics Lab LUMS
 #### June 2019 - August 2019
 #### Project on recommender system based on enhanced ripple-net algorithm
-##### I improved a recommender system by combing the knowledge of collaborative filtering and knowledge graph advised by Dr.Imdadullah Khan(LUMS). I introduced non-uniform sampling, and explored more in depth effective rated items that increased 3.0% accuracy
-and AUC over an existing state of the art method.
+##### I improved a recommender system by combing the knowledge of collaborative filtering and knowledge graph advised by Dr.Imdadullah Khan(LUMS). I introduced non-uniform sampling, and explored more in depth effective rated items that increased 3.0% accuracy and AUC over an existing state of the art method.
 <br/>
 
 
