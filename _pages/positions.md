@@ -43,8 +43,8 @@ h2, h3, h4, h5, h6 {margin: 0;}
 
 
 ##  Other
-### Cross-View Image Retrieval Model-DeepCVIR
-### Project objects on satellite view by given information of street view
-### HR Data Analytics for Employee Retention
+##### Cross-View Image Retrieval Model-DeepCVIR
+##### Project objects on satellite view by given information of street view
+##### HR Data Analytics for Employee Retention
 
 
