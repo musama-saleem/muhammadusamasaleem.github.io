@@ -17,7 +17,7 @@ h2, h3, h4, h5, h6 {margin: 0;}
 ### Sept 2020 - Present 
 ### Project on Classification, and Evasion of Encrypted Traffic Fingerprinting
 
-<p style="font-size:13pt; font-style:italic">
+<p style="font-size:11pt; font-style:italic">
    I designed a system for real-time android apps classification by fingerprinting the encrypted network traffic under the supervision of Dr.Fareed Zaffar(LUMS). I am also designing robust defenses by obfuscation of network traffic so adversaries cannot fingerprint apps.
 </p>
 <br/>
@@ -25,7 +25,7 @@ h2, h3, h4, h5, h6 {margin: 0;}
 ## Research Assistant at Technology for People Initiative (TPI) lab LUMS
 ### Aug 2020 - Present  
 ### Project on investigating the compliance with COPPA in browser-based games
-<p style="font-size:13pt; font-style:italic">
+<p style="font-size:11pt; font-style:italic">
    I investigated the compliance of gaming websites with COPPA advised by Dr.Fareed(LUMS). I observed the type of ads being shown to personas of children contained pornographic material and websites are collecting personally identifiable information (PII) like a user’s IP addresses which they are utilizing for targeted advertising on children.
 </p>
 <br/>
@@ -36,7 +36,7 @@ h2, h3, h4, h5, h6 {margin: 0;}
 ### June 2020 - Present  
 ### Project on counter deepfake misinformation among the low digital literacy population
 
-<p style="font-size:13pt; font-style:italic">
+<p style="font-size:11pt; font-style:italic">
    Our studied focused on minimizing the spread of misinformation in low digital-literacy population by countering deepfakes with Dr.Agha Ali Raza(LUMS). We investigated factors influencing belief formation in illiterate people when they are exposed to deepfake audio and video clips. I designed text-to-speech systems for generating fake audios of politicians and journalists.
 </p>
 
@@ -48,7 +48,7 @@ h2, h3, h4, h5, h6 {margin: 0;}
 ### June 2019 - August 2019
 ### Project on recommender system based on enhanced ripple-net algorithm
  
-<p style="font-size:13pt; font-style:italic">
+<p style="font-size:11pt; font-style:italic">
    I improved a recommender system by combing the knowledge of collaborative filtering and knowledge graph advised by Dr.Imdadullah Khan(LUMS). I introduced non-uniform sampling, and explored more in depth effective rated items that increased 3.0% accuracy and AUC over an existing state of the art method.
 </p>
 <br/>
