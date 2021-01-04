@@ -3,8 +3,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "CV"
-    url: https://drive.google.com/file/d/1QaT7_kRcyo0M1aJdTwpL1eJ_Xk1gkZku/view
+  - title: "Resume"
+    url: resume.pdf
     
  # - title: "Resume"
  #   url: https://drive.google.com/file/d/1h_ZbhhuRRcVPSLuSCOy5YDEDEkWsC_uR/view?usp=sharing
@@ -12,5 +12,5 @@ main:
   - title: "Publications"
     url: /publications/ 
     
-  - title: "Research Positions and Service"
+  - title: "Research Positions"
     url: /positions/ 

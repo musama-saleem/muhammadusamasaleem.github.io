@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rasika Bhalerao"
+title                    : "Muhammad Usama Saleem"
 title_separator          : "-"
-name                     : &name "Rasika Bhalerao"
-description              : &description "I am a PhD student in computer science at NYU working with Professor Damon McCoy. I am interested in cybercrime, natural language processing, machine learning, and teaching."
-url                      : https://rasikabh.github.io/
+name                     : &name "Muhammad Usama Saleem"
+description              : &description "I am a BS student in computer science at Lahore University of Management Sciences (LUMS). I am completing my undergraduate research thesis under the supervision of Dr.Fareed Zaffar Mobin Javed(LUMS).My primary research interests lie in network security and privacy challenges. My research focuses on measuring privacy threats to network-based applications and exploring security-based issues. I am interested in designing systems that can detect and control the misuse of information to secure privacy in cyberspace. "
+url                      : https://muhammadusamasaleem.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "rasikabh/rasikabh.github.io"
+repository               : "muhammadusamasaleem/muhammadusamasaleem.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter rasikabh
+  username               : &twitter m_usama_saleem
 facebook:
   username               :
   app_id                 :
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Rasika Bhalerao"
   avatar           : "bhalerao.jpg"
-  bio              : "PhD student in computer science at NYU working with Professor Damon McCoy. Interested in cybercrime, natural language processing, machine learning, and teaching."
-  location         : "rasikabh@gmail.com"
+  bio              : "BS student in computer science at LUMS working with Dr.Fareed Zaffar. Interested in networks, security, privacy, machine learning, and data mining."
+  location         : "21100273@lums.edu.pk"
   employer         : "New York University"
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=c1JotdAAAAAJ&hl=en"
-  email            : "rasikabh@nyu.edu"
-  researchgate     :  "https://www.researchgate.net/profile/Rasika_Bhalerao"
+  googlescholar    : ""
+  email            : "21100273@lums.edu.pk"
+  researchgate     :  "https://www.researchgate.net/profile/Muhammad-Usama-Saleem"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "rasikabh"
+  github           : "muhammadusamasaleem"
   google_plus      :
-  keybase          : "rasikabh"
+  keybase          : "muhammadusamasaleem"
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "rasika-bhalerao-8a827188/"
+  linkedin         : "muhammad-usama-saleem-504b65164/"
   orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "rasikabh"
+  twitter          : "m_usama_saleem"
   vine             :
   weibo            :
   xing             :
