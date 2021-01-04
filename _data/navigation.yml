@@ -12,7 +12,7 @@ main:
   - title: "Resume"
     url: resume.pdf
     
-  - title: "Publications"
-    url: /publications/ 
+#  - title: "Publications"
+#    url: /publications/ 
     
 
