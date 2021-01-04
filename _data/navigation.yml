@@ -1,16 +1,18 @@
 # main links links
 main:
+  - title: "Bio"
+    url: /bio/ 
+
+  - title: "Research Projects"
+    url: /positions/ 
+
   - title: "Teaching"
     url: /teaching/    
     
   - title: "Resume"
     url: resume.pdf
     
- # - title: "Resume"
- #   url: https://drive.google.com/file/d/1h_ZbhhuRRcVPSLuSCOy5YDEDEkWsC_uR/view?usp=sharing
-    
   - title: "Publications"
     url: /publications/ 
     
-  - title: "Research Projects"
-    url: /positions/ 
+
